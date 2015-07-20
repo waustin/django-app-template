@@ -1,8 +1,8 @@
-from django.conf.urls.defaults import patterns, include, url
+from django.conf.urls import url
 
 # Create your app urls here
 
-urlpatterns = patterns('',
+urlpatterns = [
     # Example
     # url(r'^$', view_callable, name='home')
-)
+]
